@@ -3993,4 +3993,4 @@ http://ezcdn.vood.top/live/562284026/8515825/488.m3u8
 
 
 #EXTINF:-1 tvg-id="aws-cloud" group-title="Informações" tvg-name="Sempre atualize seu MFC para receber os novos filmes & series" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Sempre atualize seu MFC para receber os novos filmes & series 🍿🎬
-pfsv.io/6705646555/60670/168251.m3u8
+cdn22.cc/6705646555/60670/168251.m3u8
