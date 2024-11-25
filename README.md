@@ -5,7 +5,7 @@ OBSERVAÇAO: Netflix esta disponível apenas para dispositivos Android, para usa
 Baixe aqui: *https://bit.ly/baixar_netflix*
 
 # Conteúdo e VOD
-Netflix tem mais de *25mil filmes & 6mil series de TV.* 📦
+Netflix tem mais de *25mil filmes & mais de 6mil series de TV.* 📦
 
 # Solicitação de séries de TV ou filmes
 Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo.
