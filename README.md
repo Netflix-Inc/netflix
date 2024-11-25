@@ -6,12 +6,14 @@ Baixe aqui: *https://bit.ly/baixar_netflix*
 
 # Conteúdo e VOD
 Netflix tem mais de *25mil filmes & mais de 6mil series de TV.* Sempre estamos lançando novos conteúdos 📦
+Clique aqui para ver os conteúdos lançados:
+*http://guiadeconteudo.blog/*
 
 # Solicitação de séries de TV ou filmes
 Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo.
 📩 E-mail: 
 *help.membersnetflix@gmail.com*
 
-Abrir ticket 🎫: 
+Abrir ticket 🎫: (09:00 as 22:00 de segunda a sábado.)
 *https://netflix-inc.github.io/ticket-tool/#chatraChatExpanded*
-*************************
+***********************************************
