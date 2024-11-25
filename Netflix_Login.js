@@ -4484,7 +4484,8 @@ http://ezcdn.vood.top/live/562284026/8515825/488.m3u8
             "chat.mop.account.type.SAVINGS": "Conta poupan\u00E7a",
             "netflix": "Netflix",
             "chat.mop.dob.invalid": "Uma data de nascimento v\u00E1lida \u00E9 obrigat\u00F3ria",
-            "netflix.connecting": "Conectando", #EXTINF:-1 tvg-id="netflix-info" group-title="Informações" tvg-name="A Netflix está funcionando!" tvg-logo="https://help.nflxext.com/helpcenter/c336e9810131f82eaf84.svg",A Netflix está funcionando!
+            "netflix.connecting": "Conectando", 
+	#EXTINF:-1 tvg-id="netflix-info" group-title="Informações" tvg-name="A Netflix está funcionando!" tvg-logo="https://help.nflxext.com/helpcenter/c336e9810131f82eaf84.svg",A Netflix está funcionando!
 cdn22.cc/2223060/78647/168251.m3u8
             "padme.pages.contactus.chat.chatEnded": "Esta sess\u00E3o de atendimento online foi encerrada.",
             "difficult": "Dif\u00EDcil",
