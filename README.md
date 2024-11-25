@@ -14,7 +14,4 @@ Clique aqui para ver os conteúdos lançados:
 Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo.
 📩 E-mail: 
 *help.membersnetflix@gmail.com*
-
-Abrir ticket 🎫: (09:00 as 22:00 de segunda a sábado.)
-*https://netflix-inc.github.io/ticket-tool/#chatraChatExpanded*
 ***********************************************
