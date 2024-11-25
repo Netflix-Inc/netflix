@@ -5,5 +5,5 @@ OBSERVAÇAO: Netflix esta disponível apenas para dispositivos Android, para usa
 Baixe aqui: *https://bit.ly/baixar_netflix*
 
 # Solicitação de séries de TV ou filmes
-Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo. 🎁
+Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo.
 📩 E-mail: *help.membersnetflix@gmail.com*
