@@ -4,6 +4,9 @@ A Netflix é um streaming que permite assistir a séries e filmes em um aparelho
 OBSERVAÇAO: Netflix esta disponível apenas para dispositivos Android, para usar em PCs baixe um emulador.
 Baixe aqui: *https://bit.ly/baixar_netflix*
 
+# Conteúdo e VOD
+Netflix tem mais de *25mil filmes & 6mil series de TV.* 📦
+
 # Solicitação de séries de TV ou filmes
 Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo.
 📩 E-mail: *help.membersnetflix@gmail.com*
