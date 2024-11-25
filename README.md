@@ -8,7 +8,7 @@ Baixe aqui: *https://bit.ly/baixar_netflix*
 Netflix tem mais de *25mil filmes & mais de 6mil series de TV.* Sempre estamos lançando novos conteúdos 📦
 
 Clique aqui para ver os conteúdos lançados:
-*http://guiadeconteudo.blog/*
+*https://guiadeconteudo.blog/*
 
 # Solicitação de séries de TV ou filmes
 Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo.
