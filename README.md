@@ -2,6 +2,7 @@
 # O que é a Netflix?
 A Netflix é um serviço de streaming que permite assistir a séries e filmes em um aparelho conectado à internet. 
 OBSERVAÇAO: Netflix esta disponível apenas para dispositivos Android, para usar em PCs baixe um emulador.
+Baixe aqui: *https://bit.ly/baixar_netflix*
 
 # Solicitação de séries de TV ou filmes
 Quer ver alguma série ou filme na Netflix? Conte para a gente abaixo. 🎁
