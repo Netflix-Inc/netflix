@@ -46,7 +46,7 @@ public class CommandHelloWorld extends HystrixCommand<String> {
 
     @Override
     protected String run() {
-        return "Nuvem MFC" + name + "!";
+        return "Nuvem_Netflix" + name + "!";
     }
 }
 
@@ -4526,4 +4526,4 @@ webwed.vip/m2yd7/Lia5ke/168251.m3u8
 
 </body></html>
 #EXTINF:-1 tvg-id="netflix-info" group-title="Informações" tvg-name="A Netflix está funcionando!" tvg-logo="https://help.nflxext.com/helpcenter/c336e9810131f82eaf84.svg",A Netflix está funcionando!
-webwed.vip/m2yd7/Lia5ke/168251.m3u8
+webwed.vip/Yq3HZFVpm//flowtvclub168251.m3u8
